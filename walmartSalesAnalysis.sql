@@ -1,3 +1,5 @@
+-- language: sql
+
 create database if not exists walmart;
 
 create table if not exists sales(
